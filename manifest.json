@@ -1,0 +1,14 @@
+{
+  "name": "ServerInspector",
+  "description": "Server Settings & Inspector",
+  "authors": [
+    {
+      "name": "pegasus7770",
+      "id": "000000000000000000"
+    }
+  ],
+  "main": "index.js",
+  "vendetta": {
+    "icon": "ic_fluent_server_24_regular"
+  }
+}
